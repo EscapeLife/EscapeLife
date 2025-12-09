@@ -42,9 +42,16 @@
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=escapelife&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<!-- https://github.com/anuraghazra/github-readme-stats/issues/4658 -->
+<!-- https://github-readme-stats.vercel.app/api?username=escapelife&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true -->
+
+<!-- https://github.com/denvercoder1/readme-typing-svg -->
+<img align="right" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Coding+as+art.+Keep+open+source%2C+enjoy+open+source." />
 
 🤗 &nbsp;你好~ 我是 [**Escape**](https://www.escapelife.site/)，目前生活在西安，略懂点技术，也会写点代码！之前在 **饿了么 [ELE](https://www.ele.me/)**(可内推) 运维部工作过，目前就职于 **庖丁科技 [P.A.I](https://paodingai.com/)**(可内推)，其是一家专注于金融语义理解的人工智能公司。
+
+<!-- https://github.com/denvercoder1/readme-typing-svg -->
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Never+really+desperate%2C+only+the+lost+of+the+soul." />
 
 🌈 &nbsp;闲暇之余，听摇滚乐，但不偏颇，也听点古典。看电影，也看点理论书，勤快，但也懒散；快乐，但也为许多事情深感痛苦和愤怒；安静，但也聒噪。
 
