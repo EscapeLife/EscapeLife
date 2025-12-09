@@ -60,6 +60,7 @@
 
 <div align="center">
 
-![ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=escapelife&column=7&margin-w=15&margin-h=15)
+<!-- https://github.com/anuraghazra/github-readme-stats/issues/4658 -->
+<!-- ![ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=escapelife&column=7&margin-w=15&margin-h=15) -->
 
 </div>
