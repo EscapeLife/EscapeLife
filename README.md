@@ -46,12 +46,12 @@
 <!-- https://github-readme-stats.vercel.app/api?username=escapelife&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true -->
 
 <!-- https://github.com/denvercoder1/readme-typing-svg -->
-<img align="right" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Coding+as+art.+Keep+open+source%2C+enjoy+open+source." />
+<img align="right" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Coding+as+art." />
 
 🤗 &nbsp;你好~ 我是 [**Escape**](https://www.escapelife.site/)，目前生活在西安，略懂点技术，也会写点代码！之前在 **饿了么 [ELE](https://www.ele.me/)**(可内推) 运维部工作过，目前就职于 **庖丁科技 [P.A.I](https://paodingai.com/)**(可内推)，其是一家专注于金融语义理解的人工智能公司。
 
 <!-- https://github.com/denvercoder1/readme-typing-svg -->
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Never+really+desperate%2C+only+the+lost+of+the+soul." />
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Keep+open+source%2C+enjoy+open+source." />
 
 🌈 &nbsp;闲暇之余，听摇滚乐，但不偏颇，也听点古典。看电影，也看点理论书，勤快，但也懒散；快乐，但也为许多事情深感痛苦和愤怒；安静，但也聒噪。
 
